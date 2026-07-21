@@ -1,3 +1,5 @@
 Google Chrome Version 109.0.5414.120
 
 Adobe Acrobat Reader DC 2022.003.20310
+
+Mozilla Firefox 115 ESR
